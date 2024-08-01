@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+
+#game {
+    display: flex;
+    justify-content: center;
+    visibility: hidden;
+    gap: 30px;
+}
+#heading {
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    color: aqua;
+}
+
+#gametext {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
